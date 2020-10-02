@@ -1,0 +1,68 @@
+commit 0554dff2ac2cb44fd4744393178cbf8b343b84ae
+Merge: f38e7ee a1b8d38
+Author: ikem Uge <ugei@mymail.mines.edu>
+Date:   Thu Oct 1 20:09:38 2020 -0600
+
+    Merge branch 'main' of https://github.com/vrworkman/DrawPlay into main
+
+commit f38e7eee9a048f48cd7e4696ff0c35729c405c5e
+Author: ikem Uge <ugei@mymail.mines.edu>
+Date:   Thu Oct 1 20:08:06 2020 -0600
+
+    test
+
+commit b33c8b84116feb5584a9f8a42bdac84966711061
+Merge: 70739fe a873fad
+Author: ikem Uge <ugei@mymail.mines.edu>
+Date:   Thu Oct 1 19:56:11 2020 -0600
+
+    Merge branch 'main' of https://github.com/vrworkman/DrawPlay into main
+
+commit a1b8d38a485d769cc694f688694bdcc18c803a98
+Author: Vincent Workman <vrworkman2@gmail.com>
+Date:   Thu Oct 1 20:00:37 2020 -0600
+
+    Test
+
+commit a873fad2844a0808fb39be581fc7c89b21dd5473
+Merge: 8b98f71 7b09b74
+Author: Vincent Workman <vrworkman2@gmail.com>
+Date:   Thu Oct 1 19:52:04 2020 -0600
+
+    New gitlog added because i am trying to learn
+
+commit 8b98f718838959858ba9528e9e6ff159f504052a
+Author: Vincent Workman <vrworkman2@gmail.com>
+Date:   Thu Oct 1 19:48:34 2020 -0600
+
+    gitlog added
+
+commit 70739fe6f6b17dbe19d482a303f2bea4e311e170
+Author: ikem Uge <ugei@mymail.mines.edu>
+Date:   Thu Oct 1 19:43:01 2020 -0600
+
+    Took forever but we made it
+
+commit 7b09b74fbec1a125adcb6cf7870f7056579c53b5
+Author: ikem Uge <ugei@mymail.mines.edu>
+Date:   Thu Oct 1 19:43:01 2020 -0600
+
+    Took forever but we made it
+
+commit 1fc2f425e327cf8477ece1f7f75b0d5fb2a19b6e
+Author: Vincent Workman <vrworkman2@gmail.com>
+Date:   Thu Oct 1 19:22:24 2020 -0600
+
+    Gitlog added
+
+commit 928fc3e7a3fe0530f57990f6781ad1238386f357
+Author: Vincent Workman <vrworkman2@gmail.com>
+Date:   Thu Oct 1 19:05:13 2020 -0600
+
+    Adding drawplay to online git repo
+
+commit e9e9b9864499165108e6925d5bcedaa709d28ef7
+Author: vrworkman <70184519+vrworkman@users.noreply.github.com>
+Date:   Thu Oct 1 18:43:58 2020 -0600
+
+    Initial commit
